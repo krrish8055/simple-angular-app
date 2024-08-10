@@ -5,4 +5,5 @@ node -v
 npm -v
 npm install -g @angular/cli
 ng --version
+ng build
 
